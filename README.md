@@ -1,4 +1,4 @@
 # Test README
-*steve
-*john
-*royce
+-steve
+-john
+-royce
