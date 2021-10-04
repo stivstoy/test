@@ -1,6 +1,6 @@
 # Test README
 
 ## Contributors
--steve
--john
--royce
+- steve
+- john
+- royce
